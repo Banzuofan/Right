@@ -1,0 +1,29 @@
+PODS:
+  - GVUserDefaults (1.0.2)
+  - JKCategories (1.5)
+  - LTNavigationBar (2.1.9)
+  - Masonry (1.0.2)
+  - XIAlertView (1.0.1)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - GVUserDefaults
+  - JKCategories
+  - LTNavigationBar
+  - Masonry
+  - XIAlertView
+  - YYKit
+
+SPEC CHECKSUMS:
+  GVUserDefaults: 52d48cf8ba578b40a1a76312b196dfc9134ba36a
+  JKCategories: 863f4c7ed2d521ee6bf72ceea97948da23bb5af4
+  LTNavigationBar: c278785bed344862e18146b5f06792932e4feacc
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  XIAlertView: 3f48cbfbdad7d28e68a4332bf363449334d6f973
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 0c7c45223cd42358dfb79ba48c3f6c181947f9e1
+
+COCOAPODS: 1.1.1
